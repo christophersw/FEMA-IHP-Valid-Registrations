@@ -1,0 +1,7 @@
+.dccache
+.DS_Store
+.idea/modules.xml
+.vscode/settings.json
+.idea
+ihp.db
+IHP.csv
